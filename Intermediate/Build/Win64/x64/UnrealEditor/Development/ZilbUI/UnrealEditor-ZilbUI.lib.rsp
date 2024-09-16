@@ -1,0 +1,41 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-ZilbUI.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"..\Intermediate\Build\Win64\x64\UnrealEditor\Development\UnrealEd\SharedPCH.UnrealEd.Cpp17.InclOrderUnreal5_0.h.obj"
+"C:\Users\Zilby\Documents\Unreal Projects\NatureDefense\Game\Plugins\Zilb\ZilbUI\Intermediate\Build\Win64\x64\UnrealEditor\Development\ZilbUI\ZilbActionWidget.gen.cpp.obj"
+"C:\Users\Zilby\Documents\Unreal Projects\NatureDefense\Game\Plugins\Zilb\ZilbUI\Intermediate\Build\Win64\x64\UnrealEditor\Development\ZilbUI\ZilbActivatableWidgetSwitcher.gen.cpp.obj"
+"C:\Users\Zilby\Documents\Unreal Projects\NatureDefense\Game\Plugins\Zilb\ZilbUI\Intermediate\Build\Win64\x64\UnrealEditor\Development\ZilbUI\ZilbButtonBase.gen.cpp.obj"
+"C:\Users\Zilby\Documents\Unreal Projects\NatureDefense\Game\Plugins\Zilb\ZilbUI\Intermediate\Build\Win64\x64\UnrealEditor\Development\ZilbUI\ZilbFocusableNavbar.gen.cpp.obj"
+"C:\Users\Zilby\Documents\Unreal Projects\NatureDefense\Game\Plugins\Zilb\ZilbUI\Intermediate\Build\Win64\x64\UnrealEditor\Development\ZilbUI\ZilbFocusableNavbarSubwidget.gen.cpp.obj"
+"C:\Users\Zilby\Documents\Unreal Projects\NatureDefense\Game\Plugins\Zilb\ZilbUI\Intermediate\Build\Win64\x64\UnrealEditor\Development\ZilbUI\ZilbHUD.gen.cpp.obj"
+"C:\Users\Zilby\Documents\Unreal Projects\NatureDefense\Game\Plugins\Zilb\ZilbUI\Intermediate\Build\Win64\x64\UnrealEditor\Development\ZilbUI\ZilbInputReceiverWidget.gen.cpp.obj"
+"C:\Users\Zilby\Documents\Unreal Projects\NatureDefense\Game\Plugins\Zilb\ZilbUI\Intermediate\Build\Win64\x64\UnrealEditor\Development\ZilbUI\ZilbNavbar.gen.cpp.obj"
+"C:\Users\Zilby\Documents\Unreal Projects\NatureDefense\Game\Plugins\Zilb\ZilbUI\Intermediate\Build\Win64\x64\UnrealEditor\Development\ZilbUI\ZilbTextBlock.gen.cpp.obj"
+"C:\Users\Zilby\Documents\Unreal Projects\NatureDefense\Game\Plugins\Zilb\ZilbUI\Intermediate\Build\Win64\x64\UnrealEditor\Development\ZilbUI\ZilbUI.init.gen.cpp.obj"
+"C:\Users\Zilby\Documents\Unreal Projects\NatureDefense\Game\Plugins\Zilb\ZilbUI\Intermediate\Build\Win64\x64\UnrealEditor\Development\ZilbUI\ZilbUIFunctionLibrary.gen.cpp.obj"
+"C:\Users\Zilby\Documents\Unreal Projects\NatureDefense\Game\Plugins\Zilb\ZilbUI\Intermediate\Build\Win64\x64\UnrealEditor\Development\ZilbUI\ZilbUIMaterialUtils.gen.cpp.obj"
+"C:\Users\Zilby\Documents\Unreal Projects\NatureDefense\Game\Plugins\Zilb\ZilbUI\Intermediate\Build\Win64\x64\UnrealEditor\Development\ZilbUI\ZilbWidgetBase.gen.cpp.obj"
+"C:\Users\Zilby\Documents\Unreal Projects\NatureDefense\Game\Plugins\Zilb\ZilbUI\Intermediate\Build\Win64\x64\UnrealEditor\Development\ZilbUI\ZilbWidgetPanel.gen.cpp.obj"
+"C:\Users\Zilby\Documents\Unreal Projects\NatureDefense\Game\Plugins\Zilb\ZilbUI\Intermediate\Build\Win64\x64\UnrealEditor\Development\ZilbUI\ZilbWidgetStack.gen.cpp.obj"
+"C:\Users\Zilby\Documents\Unreal Projects\NatureDefense\Game\Plugins\Zilb\ZilbUI\Intermediate\Build\Win64\x64\UnrealEditor\Development\ZilbUI\ZilbActionWidget.cpp.obj"
+"C:\Users\Zilby\Documents\Unreal Projects\NatureDefense\Game\Plugins\Zilb\ZilbUI\Intermediate\Build\Win64\x64\UnrealEditor\Development\ZilbUI\ZilbActivatableWidgetSwitcher.cpp.obj"
+"C:\Users\Zilby\Documents\Unreal Projects\NatureDefense\Game\Plugins\Zilb\ZilbUI\Intermediate\Build\Win64\x64\UnrealEditor\Development\ZilbUI\ZilbButtonBase.cpp.obj"
+"C:\Users\Zilby\Documents\Unreal Projects\NatureDefense\Game\Plugins\Zilb\ZilbUI\Intermediate\Build\Win64\x64\UnrealEditor\Development\ZilbUI\ZilbFocusableNavbar.cpp.obj"
+"C:\Users\Zilby\Documents\Unreal Projects\NatureDefense\Game\Plugins\Zilb\ZilbUI\Intermediate\Build\Win64\x64\UnrealEditor\Development\ZilbUI\ZilbFocusableNavbarSubwidget.cpp.obj"
+"C:\Users\Zilby\Documents\Unreal Projects\NatureDefense\Game\Plugins\Zilb\ZilbUI\Intermediate\Build\Win64\x64\UnrealEditor\Development\ZilbUI\ZilbHUD.cpp.obj"
+"C:\Users\Zilby\Documents\Unreal Projects\NatureDefense\Game\Plugins\Zilb\ZilbUI\Intermediate\Build\Win64\x64\UnrealEditor\Development\ZilbUI\ZilbInputReceiverWidget.cpp.obj"
+"C:\Users\Zilby\Documents\Unreal Projects\NatureDefense\Game\Plugins\Zilb\ZilbUI\Intermediate\Build\Win64\x64\UnrealEditor\Development\ZilbUI\ZilbNavbar.cpp.obj"
+"C:\Users\Zilby\Documents\Unreal Projects\NatureDefense\Game\Plugins\Zilb\ZilbUI\Intermediate\Build\Win64\x64\UnrealEditor\Development\ZilbUI\ZilbTextBlock.cpp.obj"
+"C:\Users\Zilby\Documents\Unreal Projects\NatureDefense\Game\Plugins\Zilb\ZilbUI\Intermediate\Build\Win64\x64\UnrealEditor\Development\ZilbUI\ZilbUI.cpp.obj"
+"C:\Users\Zilby\Documents\Unreal Projects\NatureDefense\Game\Plugins\Zilb\ZilbUI\Intermediate\Build\Win64\x64\UnrealEditor\Development\ZilbUI\ZilbUIFunctionLibrary.cpp.obj"
+"C:\Users\Zilby\Documents\Unreal Projects\NatureDefense\Game\Plugins\Zilb\ZilbUI\Intermediate\Build\Win64\x64\UnrealEditor\Development\ZilbUI\ZilbUIMaterialUtils.cpp.obj"
+"C:\Users\Zilby\Documents\Unreal Projects\NatureDefense\Game\Plugins\Zilb\ZilbUI\Intermediate\Build\Win64\x64\UnrealEditor\Development\ZilbUI\ZilbWidgetBase.cpp.obj"
+"C:\Users\Zilby\Documents\Unreal Projects\NatureDefense\Game\Plugins\Zilb\ZilbUI\Intermediate\Build\Win64\x64\UnrealEditor\Development\ZilbUI\ZilbWidgetPanel.cpp.obj"
+"C:\Users\Zilby\Documents\Unreal Projects\NatureDefense\Game\Plugins\Zilb\ZilbUI\Intermediate\Build\Win64\x64\UnrealEditor\Development\ZilbUI\ZilbWidgetStack.cpp.obj"
+"..\Intermediate\Build\Win64\x64\UnrealEditor\Development\Default.rc2.res"
+/OUT:"C:\Users\Zilby\Documents\Unreal Projects\NatureDefense\Game\Plugins\Zilb\ZilbUI\Intermediate\Build\Win64\x64\UnrealEditor\Development\ZilbUI\UnrealEditor-ZilbUI.lib"
